@@ -1,5 +1,3 @@
-<html>
-<head>	
 <script>
 const creatSpaces = function(spc){
 	if (spc===0){
@@ -29,5 +27,4 @@ triangleStar(5)
 
 
 </script>
-</head>
-</html>
+
